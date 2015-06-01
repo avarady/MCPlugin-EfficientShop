@@ -1,0 +1,7 @@
+messages:
+  nomoney: "&4You don't have enough money to purchase that!"
+  noitem: "&4You don't have any of that item!"
+  nosellableitem: "&4You don't have any sellable items of that type!"
+  addmoney: "&a<amount> has been added to your account."
+  takemoney: "&a<amount> has been taken from your account."
+currency: $

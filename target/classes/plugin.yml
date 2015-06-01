@@ -1,0 +1,10 @@
+name: EfficientShop
+main: com.xxyrana.efficientshop.EfficientShop
+version: 0.1
+permissions:
+    eshop.place:
+        description: Allows players to place EfficientShop signs
+        default: op
+    eshop.use:
+        description: Allows players to use EfficientShop signs
+        default: true
